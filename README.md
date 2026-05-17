@@ -1,5 +1,7 @@
 # streaming-01-foundations
 
+<https://github.com/MollyShelhamer/streaming-01-foundations>
+
 [![Workflow Guide](https://img.shields.io/badge/Pro--Guide-pro--analytics--02-green)](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](./pyproject.toml)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
@@ -222,7 +224,7 @@ uv run python -m zensical build
 
 # save progress
 git add -A
-git commit -m "your message here"
+git commit -m "run producer"
 
 # repeat if changes were made (try the UP ARROW)
 git add -A
